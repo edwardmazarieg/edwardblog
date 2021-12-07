@@ -1,48 +1,6 @@
 # edwardblog
- Imagínate que estas encarcelado por veinticinco años de tu vida por asesinar, violar, y
-cometer sodomía a una niña de casi dos años, sabiendo que siempre eras inocente y los
-criminales actuales eran libres durante tu pena de muerte (O’Brien et al, pp. 1684). Ahora, para
-de imaginar porque esta situación le ha pasado a Vicente Benavides Figueroa y sigue pasando a
-miembros de la comunidad latinx porque tienen testigos oculares falsos, hablan un inglés
-limitado, y son de diferente raza. Los Estados Unidos (EE. UU.![1441138994-googlecarsworld](https://user-images.githubusercontent.com/94493238/144327887-4148aef3-1593-4f67-8f86-20e9cc586cbe.jpg)
-) debe tener un sistema de justicia
-penal que termine la condena injusta de la comunidad latinx porque ha culpado a los inocentes
-sin dar juicios justos. Aunque toda mi vida había escuchado que deberíamos controlar el índice
-de criminalidad en los EE. UU., no es justo dar condenas injustas a los latinos cuando sean
-inmigrantes indocumentados, traductores sin certificados traducen los testimonios en la corte, y
-el prejuicio racial se usa durante condenas. (154)
-         El primer factor que causa condenas injustas en la comunidad latinx es el tratamiento que
-reciben los latinos por ser inmigrantes indocumentados. Como si fuera un juego, los fiscales
-legales y policías controlan a los latinos con la amenaza que van a ser deportados. Además,
-sobornan testimonios oculares con beneficios si cumplen construir testimonios falsos. Por
-ejemplo, en los dos casos de Leal-Del Carmen y Ramirez-Lopez, los policías les dieron la
-oportunidad de obtener visas para los EE. UU. a los testimonios oculares si sólo dieron
-testimonios falsos para encarcelar a los acusados (O’Brien et al., pp. 1698-1699). Esto enseña
-que el proceso durante los juicios no es justo y es abusado porque los latinos que reciben
-condenas injustas son presionados a dar testimonios falsos para acelerar los juicios. Por lo tanto,
-este sistema no funciona si sólo va a enfocarse a dar condenas injustas a los latinos por ser
-inmigrantes indocumentados cuando debemos dar el mismo tratamiento a todos durante la corte.
-(158)
-         Otra razón que causa condenas injustas en la comunidad latinx es la barrera del idioma
-cuando traductores no son certificados para hablar el español pero traducen los testimonios de los
-latinos al inglés. Muchos de los juicios son en inglés y casi nunca hay un traductor con buena
-experiencia que traduce correctamente los testimonios, transcripciones de los juicios, e historias
-de los latinos acusados. Por ejemplo, el reporte Latino Voices encontró que 46% de treinta y
-cinco estados no obligaron que tuvieran traductores certificados durante juicios; en cambio,
-policías sin certificados fueron los traductores (Latino Voices, 12). Esto significa que no hay
-profesionalismo durante juicios ni justicia porque evitan tener traductores con entrenamiento en
-el idioma que saben los latinos. Entonces, muchos latinos no saben que sucede en sus procesos y
-desafortunadamente firman papeles sin comprender los resultados de sus casos. Por consiguiente,
-ellos están con los ojos vendados durante el proceso de su condena sin poder luchar para
-concienciar el gran problema de no recibir justo traducciones. (166)
-         Finalmente, el prejuicio racial es muy evidente cuando latinos reciben condenas injustas
-y causa que los procesos de los juicios sean inexactos, culpando a los latinos que nunca hicieron
-los crímenes. En realidad, cuando detectives cuestionan a los latinos, piensan que ellos no son
-educados y los acusan más de ser criminales. Esto le pasó a Fernando Bermudez cuando un
-detective evitó a seguir otros sospechosos porque vio que él era un latino que creció en una
-comunidad latina y asumió que era el culpable; resultó que era inocente pero fue encarcelado por
-diecisiete años (Selby, 2020). ¿Por qué deben sufrir los latinos inocentes por crímenes que nunca
-hicieron? Años de sus vidas se deshacen por la flojera del sistema de justicia penal de dejar de
-usar el racismo cuando encuentra sospechosos. Debería dejar las perspectivas parciales que usan
-los detectives y enfocarse en implementar trato de igualdad a la comunidad latina para que la
-justicia pueda existir. (156)
+ [all-states_14.xlsx](https://github.com/edwardmazarieg/edwardblog/files/7665937/all-states_14.xlsx)
+![2021-12-06 (3)](https://user-images.githubusercontent.com/94493238/144987420-23d0671e-1c54-459c-bc08-f30f9f486b84.png)
+
+The map I chose was a general Hispanic population map across the United States from the Pew research center. I chose this map in particular because I am interested in the Hispanic population as I am also Hispanic and it is interesting to see a map projection about a racial population in this country. First, just take into consideration that this is from 2014 so it is a bit dated now. We see that this map image uses hue and area with an interval and ratio level of measurement as the different color shades have their own meaning and because it has a high and most informative scale than most 1-dimensional maps, and the area is where these concentrations are placed on the map of the U.S. Above all, this map is interactive which is always a great educational tool. The link above shows. What I like most about it is that it is showing the 60 largest metropolitan areas by Hispanic population. We can directly see just by hovering our mouse over the state, that California for example has a population under 18 years old that identity as Hispanic being 52% in contrast to North Dakota where the number is only 4%. Not only can we know that, but a cause that the map provides for this is simply the amount of Hispanics in each state. The number makes more sense when we find out that California has 14.9 million Hispanics and North Dakota has 18 thousand. The legend in use is advanced as a whole because not only does it specify what the colors mean in terms of Latinos/Hispanics as a percent of the population but the interactive aspect brings in more information to be explored. 
+       A critique I would give to the map through all that it provides is some sort of scale that explains the relationship of the data frame extent to the real world when clicking on each state. It can have a close-up view of the state and show a scale of the different high Hispanic populations within those counties to measure how far away each community is from one another. This change or tweak can tell us even more about the Hispanic community such as wealth disparages relative to the white neighborhoods and how gentrifying has placed the Latinos geographically. I personally know that Latinos in the Los Angeles area have been gentrified to move to central valley areas like Palmdale and Bakersfield. Another change can be to include a political identity section because this also gives more perspective to how the Latino community thinks in this country at least politically. Other than that I think this map does a great job in including many social aspects in the Latino community which makes this map very extensive.
